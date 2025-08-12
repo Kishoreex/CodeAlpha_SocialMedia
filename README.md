@@ -1,19 +1,34 @@
 # CodeAlpha Social Media Project
 
 ## 📌 Overview
-This is a simple **Social Media Backend** built with **Node.js, Express, and MongoDB**.  
-It provides basic APIs for user authentication, creating posts, and interacting with other users.
+A simple **Social Media Web Application** with a **Node.js + Express + MongoDB Backend** and a **HTML/CSS/JavaScript Frontend**.  
+It allows users to register, log in, create posts, and interact with others.
+
+---
 
 ## 🛠️ Tech Stack
-- **Backend:** Node.js, Express
-- **Database:** MongoDB (Mongoose)
-- **Environment Variables:** dotenv
-- **API Testing:** Postman
+### **Frontend**
+- HTML
+- CSS
+- JavaScript (Fetch API for calling backend)
+
+### **Backend**
+- Node.js
+- Express
+- MongoDB (Mongoose)
+- JWT Authentication
+- dotenv
+
+---
 
 ## 🚀 Features
 - User Registration & Login
-- JWT Authentication
-- CRUD operations for Posts
-- MongoDB data storage
+- JWT-secured APIs
+- Create, Read, Update, Delete (CRUD) posts
+- MongoDB as the database
+- Simple frontend to interact with backend APIs
+
+---
 
 ## 📂 Project Structure
+
